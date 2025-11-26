@@ -3,6 +3,8 @@
 ## Overview
 Automated tests for three fields on the CloudQA Practice Form using C# and Selenium with resilient locator strategies.
 
+![test_result](./test_result.PNG)
+
 ## Tests Implemented
 1. **First Name Field** - Text input validation
 2. **Email Field** - Email format validation
@@ -22,3 +24,4 @@ Automated tests for three fields on the CloudQA Practice Form using C# and Selen
 
 ## Test Results
 All 3 tests passed successfully in 16.7 seconds.
+
